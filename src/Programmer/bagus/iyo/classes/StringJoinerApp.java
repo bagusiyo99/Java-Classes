@@ -8,6 +8,8 @@ public class StringJoinerApp {
 
         joiner.add("bagus iyoooo");
         joiner.add("bagus yyyy");
+        joiner.add("bagus ajaa");
+
 
         String value = joiner.toString();
         System.out.println(value);
