@@ -7,7 +7,7 @@ public class StringBuilderApp {
         builder.append("bagus");
         builder.append(" ");
         builder.append("iyo");
-        builder.append(" ");
+        builder.append("  ");
         builder.append("praa");
 
         String name = builder.toString();
