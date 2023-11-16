@@ -7,7 +7,7 @@ public class StringJoinerApp {
         StringJoiner joiner = new StringJoiner("," , "[", "]");
 
         joiner.add("bagus iyoooo");
-        joiner.add("bagus yyyy");
+        joiner.add("bagus ");
 
 
 

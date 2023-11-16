@@ -7,8 +7,8 @@ public class StringBuilderApp {
         builder.append("bagus");
         builder.append(" ");
         builder.append("iyo");
-        builder.append("  ");
-        builder.append("praa");
+        builder.append("   ");
+        builder.append("praass");
 
         String name = builder.toString();
         System.out.println(name);
