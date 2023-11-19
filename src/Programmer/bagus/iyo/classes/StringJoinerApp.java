@@ -6,8 +6,8 @@ public class StringJoinerApp {
     public static void main(String[] args) {
         StringJoiner joiner = new StringJoiner("," , "[", "]");
 
-        joiner.add("bagus iyoooo");
-        joiner.add("bagus ");
+        joiner.add("bagus iyoooo fgf");
+        joiner.add("bagus aha ");
 
 
 
